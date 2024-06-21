@@ -8,6 +8,8 @@ Foi utilizado para os exemplos a versão 5.8.2, mais atual até o momento (29/01
 
 1. [Configurando JUnit](CONFIGURACAO.md)
 
+---
+
 ### Para gerar um projeto Maven
 
 ```
